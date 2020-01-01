@@ -1,0 +1,1 @@
+Code snippets borrowed from Exskills' [A$AP Learn GO](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/content)
